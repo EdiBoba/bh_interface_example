@@ -1,3 +1,4 @@
 Kivy
 PyQt6
 wxPython
+tkcalendar
