@@ -1,0 +1,3 @@
+Kivy
+PyQt6
+wxPython
